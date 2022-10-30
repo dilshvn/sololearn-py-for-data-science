@@ -1,4 +1,22 @@
-# NumPy (Numerical Python)
+# Python for Data Science
+
+## Statistics
+
+## Measures of Central Tendancy
+
+Mean is the average value of the dataset. Median is the middle value of an ordered dataset.
+
+Median is more useful than mean because mean can vary widely due to one value that is lot larger/smaller than others.
+
+## Standard Deviation
+
+Standard deviation is a measure of how spread the data is. Standard deviation  is the square root of variance. 
+
+If standard deviation is 17.1 and mean is 33.1, values that are within one standard deviation is said to be between (33.1-17.1) and (33.1+17.1)
+
+Low standard deviation means values tend to be close to the mean and vise versa
+
+## NumPy (Numerical Python)
 
 To use NumPy, first import the library
 
