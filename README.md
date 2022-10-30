@@ -1,2 +1,2 @@
-# notes
-all programming notes of mine
+# sololearn-py-for-data-science
+
